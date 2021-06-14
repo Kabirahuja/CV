@@ -1,0 +1,18 @@
+body {
+  background-color: blanchedalmond;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none none;
+  border-top-width: thick;
+  border-top-color: aquamarine;
+
+}
+
+h1 {
+  color: cornflowerblue;
+}
+h3 {
+  color: cornflowerblue;
+}
